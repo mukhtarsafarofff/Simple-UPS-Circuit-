@@ -1,1 +1,1 @@
-An uninterruptible power supply with elaborate features may not be critically required for the operation of
+An uninterruptible power supply are  required for the operation of
