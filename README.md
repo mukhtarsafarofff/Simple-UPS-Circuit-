@@ -18,3 +18,4 @@ Eine unterbrechungsfreie Stromversorgung (USV) ist für den Betrieb aller elektr
 2) Eine Batterie
 3) Eine Batterieladeschaltung
 4) Eine Umschaltschaltung mit Relais oder anderen Geräten wie Triacs oder SSRs.
+Der Wechselrichter: Da eine USV (Unterbrechungsfreie Stromversorgung) mit wichtigen und empfindlichen elektronischen Geräten umgehen muss, muss die involvierte Wechselrichterstufe in Bezug auf ihre Wellenform entsprechend fortschrittlich sein.
