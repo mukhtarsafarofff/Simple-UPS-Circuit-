@@ -15,3 +15,4 @@ The Inverter: Since an UPS has to deal with crucial and sensitive electronic app
 Eine unterbrechungsfreie Stromversorgung (USV) ist für den Betrieb aller elektrischen Geräte erforderlich. Die Hauptaufgabe einer USV besteht darin, kurzfristig Notstrom zu liefern, wenn es zu einem vollständigen Ausfall oder Blackout der Stromversorgung kommt. Außerdem können die meisten modernen Online-USV-Anlagen eine Vielzahl von häufig auftretenden Stromproblemen korrigieren, einschließlich Spannungseinbrüchen: kurze Perioden, in denen die Spannung unter das normale Niveau der Stromversorgung fällt.  Um das Risiko von Datenverlusten, Ausfallzeiten und steigenden Kosten zu verringern, ist es wichtig, eine USV-Stromversorgung zu haben. Eine USV regelt kontinuierlich die eingehende Spannung und bietet bei einem Stromausfall eine Batterieunterstützung.
 1) Wechselrichterschaltung
 2) Eine Batterie
+3) Eine Batterieladeschaltung
