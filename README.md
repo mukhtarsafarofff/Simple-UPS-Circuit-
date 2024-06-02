@@ -2,6 +2,7 @@ An uninterruptible power supply are  required for the operation of all electrica
 1) An inverter circuit
 2) 2) A Battery
 3) A battery charger circuit
+4) A changeover circuit stage using relays or other devices such as triacs or SSRs.
 
 
 
