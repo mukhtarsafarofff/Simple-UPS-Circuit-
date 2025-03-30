@@ -2,7 +2,7 @@
 1) Inverter circuit
 2) A Battery
 3) A battery charger circuit
-4) A changeover circuit 
+4) A changeover circuit stage using relays or other 
 
 
 
