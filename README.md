@@ -2,6 +2,7 @@
 provides battery backup in the event of a power failure. A basic UPS circuit will have the following fundamental stages:
 1) Inverter circuit
 2) A Battery
+3) A battery charger circuit
 
 
 
