@@ -3,6 +3,7 @@ provides battery backup in the event of a power failure. A basic UPS circuit wil
 1) Inverter circuit
 2) A Battery
 3) A battery charger circuit
+4) 4) A changeover circuit stage using relays or other devices such as triacs or SSRs. 
 
 
 
