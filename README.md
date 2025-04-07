@@ -1,4 +1,4 @@
-(ENG) An uninterruptible power supply are  required for the operation of all electrical devices.
+(ENG) An uninterruptible power supply are  required for the operation of all electrical devices. An uninterruptible power supply's primary role 
 
 
 
