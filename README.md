@@ -1,4 +1,4 @@
-
+(ENG) An uninterruptible power supply are  required for the operation of all electrical devices. 
 1) Inverter circuit
 2) A Battery
 3) A battery charger circuit
