@@ -1,4 +1,4 @@
-(ENG) An uninterruptible power supply are  required for the operation of all electrical devices. An uninterruptible power supply's primary role is to provide short-term emergency power when there's a complete mains failure or blackout. In addition, most modern online UPS can correct a 
+(ENG) An uninterruptible power supply are  required for the operation of all electrical devices. An uninterruptible power supply's primary role is to provide short-term emergency power when there's a complete mains failure or blackout. In addition, most modern online UPS can correct a wide range of common power problems, including: 
 
 1) Inverter circuit
 2) A Battery
