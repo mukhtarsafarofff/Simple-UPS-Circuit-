@@ -2,7 +2,7 @@
 1) Inverter circuit
 2) A Battery
 3) A battery charger circuit
-4) A changeover circuit stage using relays or other devices such as triacs or SSRs.
+4) A changeover circuit stage using relays or other devices such as triacs or SSRs
 
 The Inverter: Since an UPS has to deal with crucial and sensitive electronic appliances, the involved inverter stage must be reasonably advanced with its waveform, in other words an ordinary square wave inverter may not be recommended for an UPS, and therefore for our design we make sure that this condition is aptly taken care of.
 
